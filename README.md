@@ -2,4 +2,4 @@
 
 Project developed with Node.js(Express) in Backend and React in Frontend.
 
-!(Be The Hero)[be-the-hero.gif]
+![Be The Hero](be-the-hero.gif)
